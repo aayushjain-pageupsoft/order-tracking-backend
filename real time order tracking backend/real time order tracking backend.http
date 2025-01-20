@@ -1,0 +1,6 @@
+@real_time_order_tracking_backend_HostAddress = http://localhost:5067
+
+GET {{real_time_order_tracking_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
